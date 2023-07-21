@@ -1,3 +1,5 @@
+On JavaScript
+
 In the infinite expanse of programming tongues so diverse,
 One made me question my sanity - it was a hex on my universe!
 I almost eloped with my computer, mouse, and monitor screen,
@@ -12,3 +14,8 @@ My functions were named with such care and precision,
 But every time I updated them, I sparked a new collision.
 And though I tried to be diligent and pay attention,
 My code always ended up with some weird, unexpected exception.
+
+But still I persisted, I couldn't give in,
+I had to figure out this language, it was my original sin.
+And though the journey was fraught with frustration and tears,
+I finally found the solution, and my program ran without fears.
