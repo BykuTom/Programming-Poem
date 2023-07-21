@@ -11,9 +11,9 @@ I tried to console.log() my way out of the mess,
 But it seemed like every time, my program became less.
 
 My functions were named with such care and precision,
-But every time I updated them, I sparked a new collision.
+Yet every time I updated them, I sparked a new collision.
 And though I tried to be diligent and pay attention,
-My code always ended up with some weird, unexpected exception.
+My code always ended up with an unexpected exception.
 
 But still I persisted, I couldn't give in,
 I had to figure out this language, it was my original sin.
