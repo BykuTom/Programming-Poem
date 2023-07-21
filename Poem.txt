@@ -2,3 +2,8 @@ In the infinite expanse of programming tongues so diverse,
 One made me question my sanity - it was a hex on my universe!
 I almost eloped with my computer, mouse, and monitor screen,
 Caught up in the mind-bending maze of Javascript, obscene and mean
+
+I tried to make sense of its curly braces and semicolons,
+But my code kept breaking, and I couldn't find what was wrong.
+I tried to console.log() my way out of the mess,
+But it seemed like every time, my program became less.
