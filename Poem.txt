@@ -19,3 +19,8 @@ But still I persisted, I couldn't give in,
 I had to figure out this language, it was my original sin.
 And though the journey was fraught with frustration and tears,
 I finally found the solution, and my program ran without fears.
+
+So now I look back on those long, frustrating days,
+And laugh at how I struggled with Javascript's crazy ways.
+But I know deep down, I'll always have a soft spot,
+For that wacky, unpredictable language that nearly drove me to dot.
