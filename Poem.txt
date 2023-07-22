@@ -21,6 +21,6 @@ And though the journey was fraught with frustration and tears,
 I finally found the solution, and my program ran without fears.
 
 And now I look back on those lenghty, irritating days,
-And laugh at how I struggled with Javascript's crazy ways.
+laughing at how I struggled with JS's loopy ways.
 But I know deep down, I'll always have a soft spot,
-For that wacky, unpredictable language that nearly drove me to dot.
+For that wacky language that nearly drove me to dot.
