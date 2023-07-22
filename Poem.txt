@@ -20,7 +20,7 @@ I had to figure out this language, it was my original sin.
 And though the journey was fraught with frustration and tears,
 I finally found the solution, and my program ran without fears.
 
-And now I look back on those lenghty, irritating days,
+Now I look back on those lenghty, irritating days,
 laughing at how I struggled with JS's loopy ways.
-But I know deep down, I'll always have a soft spot,
-For that wacky language that nearly drove me to dot.
+And to all of this, I cannot help but add, 
+that this preposterous language has nearly drove me mad.
