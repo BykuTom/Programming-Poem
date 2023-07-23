@@ -1,4 +1,4 @@
-On JavaScript
+Loopy JavaScript
 
 In the infinite expanse of programming tongues so diverse,
 One made me question my sanity - it was a hex on my universe!
